@@ -1,0 +1,23 @@
+{
+  "skill_name": "H5-Product-Development",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我要开发一个社交媒体监控平台的 H5 移动端版本，需要支持添加到主屏幕",
+      "expected_output": "创建完整的产品需求文档在 product/requirements.md，包含 PWA 支持、响应式布局、安全区域适配等需求",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "有一个移动端表单页面，点击提交按钮没有反应，检查一下可能的原因",
+      "expected_output": "在 debug/issues.md 中记录问题分析，包括触摸热区、事件处理等可能原因和修复方案",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "启动一个完整的 H5 项目开发流程，从产品规划到测试验证",
+      "expected_output": "按顺序创建 product/requirements.md、design/interaction.md、rnd/tech-spec.md、test/test-cases.md 等完整文档",
+      "files": []
+    }
+  ]
+}
